@@ -1,9 +1,6 @@
 ---
 ---
 
-$sidebar-width: 300px !default; /* the basic width */
-$sidebar-width-large: 400px !default; /* screen width: >= 1650px */
-
 /* prettier-ignore */
 @use 'main
 {%- if jekyll.environment == 'production' -%}
