@@ -1,6 +1,8 @@
 ---
 ---
 
+$sidebar-width: 400px !default;
+
 /* prettier-ignore */
 @use 'main
 {%- if jekyll.environment == 'production' -%}
